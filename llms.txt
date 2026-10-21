@@ -1,0 +1,63 @@
+# Caderno do Treino
+
+> Guias, comparativos e reviews de esporte, fitness e mobilidade ativa, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Comparativos
+- [5 acessórios fitness até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/acessorios-fitness-ate-40/)
+- [5 bolas e esportes de quadra até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/bolas-e-esportes-de-quadra-ate-70/)
+- [4 meias, íntimas e acessórios esportivos até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/meias-intimas-e-acessorios-esportivos-ate-30/)
+- [5 patins, patinetes e lazer ao ar livre até R$ 300: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/patins-patinetes-e-lazer-ao-ar-livre-ate-300/)
+- [5 proteção e acessórios esportivos até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/protecao-e-acessorios-esportivos-ate-30/)
+
+## Guias
+- [Como escolher produto: o que olhar na ficha antes de gastar (de R$ 19 a R$ 249,01)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-produto/)
+- [Como escolher item de esporte: o que olhar na ficha antes de gastar (de R$ 50,16 a R$ 110)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-item-de-esporte/)
+- [Como escolher meia ou peça íntima: o que olhar na ficha antes de gastar (de R$ 8 a R$ 59,99)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-meia-ou-peca-intima/)
+- [Como escolher item de movimento: o que olhar na ficha antes de gastar (de R$ 39,66 a R$ 589,90)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-item-de-movimento/)
+- [Como escolher proteção esportiva: o que olhar na ficha antes de gastar (de R$ 18,90 a R$ 117,23)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-protecao-esportiva/)
+
+## Reviews
+- [Corda de Pular Speed Rope 3M Profissional Academia: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/corda-de-pular-speed-rope-3m-profissional-academia-c7a2dc/)
+- [Corda de Pular Speed Rope 3M Profissional Academia: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/corda-de-pular-speed-rope-3m-profissional-academia-cf36e4/)
+- [Kit 18 Itens Esportivos Para Treino Em Casa em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-18-itens-esportivos-para-treino-em-casa-7b4a5b/)
+- [Kit 20 Itens Esportivos Para Treino Em Casa: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-20-itens-esportivos-para-treino-em-casa-5493ec/)
+- [Kit Boxe Muay Thai Naja Black Line -: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-boxe-muay-thai-naja-black-line-f5d8b0/)
+- [Luva De Boxe Muaythai Rhino Profissional Tamanho 12oz em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/luva-de-boxe-muaythai-rhino-profissional-tamanho-12oz-bdcafc/)
+- [Luva musculacao crossfit hidrolight feminina treino premium cor: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/luva-musculacao-crossfit-hidrolight-feminina-treino-premium-cor-a42843/)
+- [Luvas academia mbfit neoprene com munhequeira preto tamanho em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/luvas-academia-mbfit-neoprene-com-munhequeira-preto-tamanho-2d3d43/)
+- [Bola De Basquete Playoff Ix Laranja Penalty em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-basquete-playoff-ix-laranja-penalty-434096/)
+- [Bola De Futebol De Campo Penalty Bravo Xxv: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-futebol-de-campo-penalty-bravo-xxv-166d2f/)
+- [Bola De Futsal Rx 500 Xxiii Cor Branco: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-futsal-rx-500-xxiii-cor-branco-e7c42d/)
+- [Bola De Tênis Wilson Championship Extra Duty Tubo em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-tenis-wilson-championship-extra-duty-tubo-156def/)
+- [Bola De Volei Oficial 2.0 Rainha Quadra Ultra em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-volei-oficial-2-0-rainha-quadra-ultra-d9f934/)
+- [Bola De Volêi Rainha 2.5 Quadra E Praia: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-volei-rainha-2-5-quadra-e-praia-3834f0/)
+- [Bola De Vôlei 3.5 Rainha Quadra E Praia: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-de-volei-3-5-rainha-quadra-e-praia-5aeeec/)
+- [Bola Vôlei Soft Pênalti Quadra - Praia: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bola-volei-soft-penalti-quadra-praia-c3ea7e/)
+- [Kit 15 pares meias sport algodao cano medio: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-15-pares-meias-sport-algodao-cano-medio-90623f/)
+- [Kit 2 par meia esporte fitness corrida ciclismo: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-2-par-meia-esporte-fitness-corrida-ciclismo-11f518/)
+- [Kit 3 pares meias esportiva corrida bike academia em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-3-pares-meias-esportiva-corrida-bike-academia-810390/)
+- [Manguito curto preto kanxa ciclismo corrida volei tamanho: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/manguito-curto-preto-kanxa-ciclismo-corrida-volei-tamanho-5e90e3/)
+- [Manguito protecao solar ciclismo manga preto uv masculino em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/manguito-protecao-solar-ciclismo-manga-preto-uv-masculino-08a114/)
+- [Manguito uv50 protecao solar moto ciclismo corrida pesca: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/manguito-uv50-protecao-solar-moto-ciclismo-corrida-pesca-5afa10/)
+- [Meia puma poliamida esportiva corrida dry academia soquete: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/meia-puma-poliamida-esportiva-corrida-dry-academia-soquete-43cdf5/)
+- [Banco Bike Selim Grande Para Bicicleta Super Comfort em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/banco-bike-selim-grande-para-bicicleta-super-comfort-a52959/)
+- [Bicicleta Infantil Aro 12 Homem Aranha Nathor Spider-man em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bicicleta-infantil-aro-12-homem-aranha-nathor-spider-man-969377/)
+- [Bicicleta Infantil Aro 12 Menina Nathor Flower Rodinha: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/bicicleta-infantil-aro-12-menina-nathor-flower-rodinha-f133ef/)
+- [Cama Elástica Infantil Justfun 1,8 m Colorida com em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/cama-elastica-infantil-justfun-1-8-m-colorida-com-407fac/)
+- [Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/cama-elastica-pula-pula-infantil-trampolim-1-4-metros-f5f3a1/)
+- [Cama Elástica Trampolim JustFun de 1,40 m para em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/cama-elastica-trampolim-justfun-de-1-40-m-para-88a0e0/)
+- [Cama elástica 1,40m Standard lona de salto preta: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/cama-elastica-1-40m-standard-lona-de-salto-preta-65f5f4/)
+- [Kit Freio V-brake Bicicleta Par Manete Em Alumínio: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-freio-v-brake-bicicleta-par-manete-em-aluminio-f2eb70/)
+- [Cadeado Bicicleta Antifurto Trava Com Senha Aço Reforçado: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/cadeado-bicicleta-antifurto-trava-com-senha-aco-reforcado-3f244f/)
+- [Cronômetro Digital Profissional Esportivo 1/100s Alarme Hora Data: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/cronometro-digital-profissional-esportivo-1-100s-alarme-hora-data-5ebcc2/)
+- [Joelheira Para Goleiro Mania De Futsal Premium Cor: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/joelheira-para-goleiro-mania-de-futsal-premium-cor-01206a/)
+- [Joelheira para Qualquer Idade Tamanho Único com Ajuste: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/joelheira-para-qualquer-idade-tamanho-unico-com-ajuste-c994c2/)
+- [Kit 10 Overgrip Wilson Para Beach Tennis Padel: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/kit-10-overgrip-wilson-para-beach-tennis-padel-3e2c0d/)
+- [Protetor Bucal Transparente Vollo Moldável EVA Artes Marciais: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/protetor-bucal-transparente-vollo-moldavel-eva-artes-marciais-7aa841/)
+- [Spank Protetor Bucal Profissional Moldável Com Estojo Cor: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/spank-protetor-bucal-profissional-moldavel-com-estojo-cor-ea17e7/)
+- [Spank Protetor Bucal Profissional Moldável com estojo cor em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/review/spank-protetor-bucal-profissional-moldavel-com-estojo-cor-41251b/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/sobre/)
