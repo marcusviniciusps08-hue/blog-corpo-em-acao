@@ -5,14 +5,14 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 acessórios fitness até R$ 30: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/acessorios-fitness-ate-30/)
-- [4 bolas e esportes de quadra até R$ 70: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/bolas-e-esportes-de-quadra-ate-70/)
-- [4 patins, patinetes e lazer ao ar livre até R$ 660: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/patins-patinetes-e-lazer-ao-ar-livre-ate-660/)
-- [4 proteção e acessórios esportivos até R$ 130: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/protecao-e-acessorios-esportivos-ate-130/)
+- [5 acessórios fitness até R$ 30: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/acessorios-fitness-ate-30/)
+- [4 bolas e esportes de quadra até R$ 70: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/bolas-e-esportes-de-quadra-ate-70/)
+- [4 patins, patinetes e lazer ao ar livre até R$ 660: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/patins-patinetes-e-lazer-ao-ar-livre-ate-660/)
+- [4 proteção e acessórios esportivos até R$ 130: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/top/protecao-e-acessorios-esportivos-ate-130/)
 
 ## Guias
 - [Como escolher produto: o que olhar na ficha antes de gastar (de R$ 19 a R$ 221)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-produto/)
-- [Como escolher item de esporte: o que olhar na ficha antes de gastar (de R$ 56,80 a R$ 103,98)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-item-de-esporte/)
+- [Como escolher item de esporte: o que olhar na ficha antes de gastar (de R$ 56,99 a R$ 96,90)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-item-de-esporte/)
 - [Como escolher item de movimento: o que olhar na ficha antes de gastar (de R$ 37,90 a R$ 659,90)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-item-de-movimento/)
 - [Como escolher proteção esportiva: o que olhar na ficha antes de gastar (de R$ 31,65 a R$ 129)](https://marcusviniciusps08-hue.github.io/blog-corpo-em-acao/guia/como-escolher-protecao-esportiva/)
 
